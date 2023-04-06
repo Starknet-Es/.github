@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Starknet Español</h1>
     <h2>Equipo Oficial de Starknet para la comunidad de habla hispana</h2>
-    <img src="https://github.com/Nadai2010/DimeYad/blob/master/im%C3%A1genes/Github_Overview.png" width="600">
+    <img src="https://github.com/Starknet-Es/.github/blob/main/profile/Github_Overview.png" width="600">
 <div align="center">
 
 ---

@@ -37,11 +37,35 @@ Aquí hay una lista de proyectos y documentos interesantes realizados por el equ
      
 ---   
     
-## Agradecimientos
-
+## Autores y Agredecimentos ✨
 
 - Muchas gracias a todos por sus contribuciones a estos proyectos. Su arduo trabajo y dedicación son realmente apreciados.
 - También agradecer al Team oficial de StarknetEs por los grandes aportes y esfuerzos por enseñar.
 - Y sin olvidarnos de los más importantes, USTEDES...Gracias comunidad.
 
 https://github.com/Starknet-Es
+    
+<div style="overflow-x:auto;">
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/dami.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@dub_zn</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Nadai.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/haycarlitos"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/haycarlitos.jpg" width="100px;" alt="haycarlitos"/><br /><sub><b>@haycarlitos</b></sub></a><br /><a href="https://twitter.com/haycarlitos" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xhasher_"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/0xhasher_.jpg" width="100px;" alt="0xhasher_"/><br /><sub><b>@0xhasher_</b></sub></a><br /><a href="https://twitter.com/0xhasher_" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Fenrir_67"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Fenrir_67.jpg" width="100px;" alt="fenrir_67"/><br /><sub><b>@Fenrir_67_</b></sub></a><br /><a href="https://twitter.com/Fenrir_67" title="Twitter"></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Hasseru"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/hassel.jpg" width="100px;" alt="Hasseru"/><br /><sub><b>@Hasseru</b></sub></a><br /><a href="https://twitter.com/Hasseru" title="Twitter"></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/glihm_"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Glihm.jpg" width="100px;" alt="glhim"/><br /><sub><b>@glihm_
+</b></sub></a><br /><a href="https://twitter.com/glihm_" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xVato"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/0xVato.jpg" width="100px;" alt="0xvato"/><br /><sub><b>@0xVato
+</b></sub></a><br /><a href="https://twitter.com/0xVato" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Dimeyad"><img src="" width="100px;" alt="yad"/><br /><sub><b>@0xVato
+</b></sub></a><br /><a href="https://twitter.com/Dimeyad" title="Twitter"></a></td>
+    </tr>
+  </tbody>
+</table>
+</div>

@@ -63,7 +63,7 @@ https://github.com/Starknet-Es
 </b></sub></a><br /><a href="https://twitter.com/glihm_" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xVato"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/0xVato.jpg" width="100px;" alt="0xvato"/><br /><sub><b>@0xVato
 </b></sub></a><br /><a href="https://twitter.com/0xVato" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Dimeyad"><img src="" width="100px;" alt="yad"/><br /><sub><b>@0xVato
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Dimeyad"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Yad.jpg" width="100px;" alt="yad"/><br /><sub><b>@0Yad
 </b></sub></a><br /><a href="https://twitter.com/Dimeyad" title="Twitter"></a></td>
     </tr>
   </tbody>

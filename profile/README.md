@@ -1,4 +1,4 @@
--<div align="center">
+<div align="center">
     <h1>Starknet Español</h1>
     <h2>Equipo Oficial de Starknet para la comunidad de habla hispana</h2>
     <img src="https://github.com/Starknet-Es/.github/blob/main/profile/Github_Overview.png" width="600">
